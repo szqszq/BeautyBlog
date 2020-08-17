@@ -1,0 +1,1 @@
+技术栈：vue + vuex + vue-router + axios + element-ui + express + mongoose 
